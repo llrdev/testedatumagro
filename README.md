@@ -60,5 +60,8 @@ A aplicação tem swagger para teste da API
 E uma pagina index.html para teste a comunicação do websocket 
 ao enviar pela api  endpoint /notification/ 
 
-Com a pagina index aberta ao adicionar um blog na api controller /blog/ {post}
-tambem aparecera uma noticação na pagina;
+abra a página index para acompar o que é produzido pelo swagger para fins de testes.
+
+enjoy this!
+
+By Leandro Lopes
